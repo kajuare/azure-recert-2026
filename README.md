@@ -4,7 +4,7 @@ Recertifying after original 2020 cert expired. Tracking daily study for accounta
 
 ## Progress
 - [x] Identity (Entra ID) — 2026-07-27
-- [ ] Governance & compliance
+- [x] Governance & compliance
 - [ ] Storage
 - [ ] Compute
 - [ ] Networking
