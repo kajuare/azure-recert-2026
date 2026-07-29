@@ -3,8 +3,9 @@
 Recertifying after original 2020 cert expired. Tracking daily study for accountability and future interview prep.
 
 ## Progress
-- [x] Identity (Entra ID) — 2026-07-27
+- [x] Identity (Entra ID)
 - [x] Governance & compliance
+- [x] Admin Resources (ARM & Bicep)
 - [ ] Storage
 - [ ] Compute
 - [ ] Networking
