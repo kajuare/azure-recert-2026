@@ -6,7 +6,7 @@ Recertifying after original 2020 cert expired. Tracking daily study for accounta
 - [x] Identity (Entra ID)
 - [x] Governance & compliance
 - [x] Admin Resources (ARM & Bicep)
+- [x] Virtual Networking
 - [ ] Storage
 - [ ] Compute
-- [ ] Networking
 - [ ] Monitoring & backup
