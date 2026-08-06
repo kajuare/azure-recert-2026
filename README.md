@@ -8,5 +8,6 @@ Recertifying after original 2020 cert expired. Tracking daily study for accounta
 - [x] Admin Resources (ARM & Bicep)
 - [x] Virtual Networking
 - [x] Storage
-- [ ] Compute
+- [-] Compute
+- [ ] PaaS Compute Options
 - [ ] Monitoring & backup
