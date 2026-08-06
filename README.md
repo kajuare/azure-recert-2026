@@ -7,6 +7,6 @@ Recertifying after original 2020 cert expired. Tracking daily study for accounta
 - [x] Governance & compliance
 - [x] Admin Resources (ARM & Bicep)
 - [x] Virtual Networking
-- [ ] Storage
+- [x] Storage
 - [ ] Compute
 - [ ] Monitoring & backup
