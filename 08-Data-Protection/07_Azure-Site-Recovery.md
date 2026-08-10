@@ -40,7 +40,7 @@ Unlike Azure Backup (which protects against **data loss**), Azure Site Recovery 
 flowchart LR
     A["Primary Site<br/>(On-prem or Azure Region A)"] -->|Continuous Replication| B["Recovery Services Vault"]
     B -->|Failover| C["Secondary Site<br/>(Azure Region B)"]
-    C -->|Failback (once primary recovers)| A
+    C -->|"Failback (once primary recovers)"| A
 ```
 
 ## Where It Fits in the Vault
