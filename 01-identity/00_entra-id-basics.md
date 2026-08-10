@@ -13,10 +13,8 @@
 
 ## Mini-lab per each block: 
 
-**1. Entra ID Fundamentals (conceptos + ediciones + Entra ID vs AD)**
-- Documento comparativo en Markdown: tabla Entra ID Free vs P1 vs P2 vs Active Directory on-prem
-- Captura o export de tu tenant mostrando la edición actual con `az ad ...` o portal
-- Commit: `01-entra-id-fundamentals.md`
+**1. Entra ID Fundamentals (concepts + ediciones + Entra ID vs AD)**
+
 
 **2. Gestión de usuarios (User Accounts + Bulk Operations)**
 - Crea 5-10 usuarios de prueba vía **Azure CLI** (`az ad user create`) y documenta los comandos
