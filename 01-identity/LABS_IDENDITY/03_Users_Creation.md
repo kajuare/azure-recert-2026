@@ -33,7 +33,7 @@ az ad user list \
 ```
 
 **Result:**
-![Users_Image](/azure-recert-2026/01-identity/LABS_IDENDITY/Images/010300.png)
+![Users_Image](./Images/010300.png)
 
 ## Via Portal: 
 
@@ -41,5 +41,5 @@ az ad user list \
 
 **Result:**
 
-![Users_Image_Portal](/azure-recert-2026/01-identity/LABS_IDENDITY/Images/010301.png)
+![Users_Image_Portal](./Images/010301.png)
 
