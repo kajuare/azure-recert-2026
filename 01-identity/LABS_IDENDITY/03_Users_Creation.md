@@ -33,6 +33,7 @@ az ad user list \
 ```
 
 **Result:**
+
 ![Users_Image](./Images/010300.png)
 
 ## Via Portal: 
