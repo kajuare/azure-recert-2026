@@ -10,5 +10,5 @@ Recertifying after original 2020 cert expired. Tracking daily study for accounta
 - [x] Storage
 - [x] Compute
 - [x] PaaS Compute Options
-- [ ] Data Protection Options (Backups)
-- [ ] Monitoring & backup
+- [x] Data Protection Options (Backups)
+- [*] Monitoring & backup
